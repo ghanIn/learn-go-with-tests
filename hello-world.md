@@ -1,6 +1,6 @@
 # Hello, World
 
-**[You can find all the code for this chapter here](https://github.com/quii/learn-go-with-tests/tree/master/hello-world)**
+**[이번 챕터의 모든 코드는 이곳에!](https://github.com/quii/learn-go-with-tests/tree/master/hello-world)**
 
 It is traditional for your first program in a new language to be Hello, world.
 
